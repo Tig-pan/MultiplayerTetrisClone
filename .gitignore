@@ -1,0 +1,14 @@
+*.suo
+*.png
+*.jpg
+*.meta
+*.asset
+*.prefab
+*.mat
+*.sln
+*.lock
+*.ide
+*.otf
+*.csproj
+
+Library
